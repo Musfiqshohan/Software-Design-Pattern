@@ -12,10 +12,10 @@ import javax.xml.soap.Detail;
  *
  * @author musfiq
  */
-public class SushiPizza extends PizzaClass{
+public class GarlicFingers extends PizzaClass{
 
-    public SushiPizza() {
-         details="This is SushiPizza =800";
+    public GarlicFingers() {
+         details="This is GarlicFingers =500";
     }
     
      
@@ -24,7 +24,7 @@ public class SushiPizza extends PizzaClass{
      @Override
      public double cost(){
          
-         return 800;
+         return 500;
      }
     
 }

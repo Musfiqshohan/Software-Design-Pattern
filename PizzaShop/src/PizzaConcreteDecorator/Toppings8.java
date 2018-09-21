@@ -11,17 +11,17 @@ import PizzaDecoration.PizzaClass;
  *
  * @author musfiq
  */
-public class Toppings8 extends Decorator{
+public class Toppings1 extends Decorator{
     
     PizzaClass pizzaClass;
     int count;
 
-    public Toppings8(PizzaClass pizzaClass, int count) {
+    public Toppings1(PizzaClass pizzaClass, int count) {
         this.pizzaClass = pizzaClass;
         this.count=count;
         
         
-        String add="Toppings8*"+count+" -> "+" 8.00*"+count+" = "+8.00*count;
+        String add="Toppings1*"+count+" -> "+" 1.00*"+count+" = "+1.00*count;
         details=pizzaClass.details+"\n"+add;
         
     }
@@ -29,7 +29,7 @@ public class Toppings8 extends Decorator{
     
     public double cost(){
         
-        return pizzaClass.cost()+ 8.00*count;
+        return pizzaClass.cost()+ 1.00*count;
     }
     
     
