@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/observers/Observer.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/observers/ForeCastDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/observers/DisplayElement.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/subject/Subject.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/subject/WeatherData.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/observers/StatisticsDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/observers/CurrentConditionDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LObserverPattern/src/com/du/lobserverpattern/ObserverSimulator.java</file>
+        </group>
+    </open-files>
+</project-private>

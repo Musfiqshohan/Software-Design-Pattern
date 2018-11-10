@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/com/du/strategypattern/StrategySimulator.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/RedHeadDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/quackbehaviour/Squeek.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/flybehaviour/FlyWithWings.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/quackbehaviour/QuackBehaviour.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/quackbehaviour/Quack.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/FactoryDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/flybehaviour/FlyWithRocket.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/Duck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/flybehaviour/FlyNoWay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/quackbehaviour/FakeQuack.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/MallardDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/quackbehaviour/MuteQuack.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/flybehaviour/FlyBehaviour.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/DecoyDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/StrategyPattern/src/ducks/RubberDuck.java</file>
+        </group>
+    </open-files>
+</project-private>

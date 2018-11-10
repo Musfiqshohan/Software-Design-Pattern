@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/flybehaviour/FlyNoWay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/ducks/Duck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/quackbehaviour/QuackBehaviour.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/ducks/DecoyDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/quackbehaviour/MuteQuack.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/com/du/lstrategypattern/StrategySimulator.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/flybehaviour/FlyWithWings.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/quackbehaviour/Quack.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/ducks/MallardDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/ducks/RedHeadDuck.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/flybehaviour/FlyBehaviour.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/quackbehaviour/Squeek.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/Last%20Practise/LStrategyPattern/src/ducks/RubberDuck.java</file>
+        </group>
+    </open-files>
+</project-private>

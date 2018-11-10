@@ -1,0 +1,48 @@
+singleton (checked)
+---------
+Simulator, ChocolateBoiler
+
+strategy(checked)
+--------
+strategysimulator
+ducks-> Duck(abstract), Mallard,Rubber, decoy,Redhead
+flybehaviour-> Flybehaviour(Interface), flywithwings, flynoway
+quackbehaviour->Qcuakbehaviour(Interface), MuteQuack, Quack,Squeak
+
+decorator(checked)
+---------
+DecoratorSimulator
+concretecomponent->BeverageComponent(abstract),Darkroast,Houseblend,Espresso, Decaf
+decorators-> condimentdecorator(abstract),milk, mocha ,whip, soy  
+
+observer(checked)
+--------
+observers->Observer(interface), displayelement(interface),CurrentConditionDisplay,ForecastDisplay,StatisticsDisplay
+subject-> subject(interface), weatherData	
+
+mediator(checked)
+---------
+com.du->Imediator(Interface), mediator, mediatorSimulator
+component-> Icomponent(interface), Spoke,Hub, Tire
+
+
+memento(checked)
+-------
+CareTaker, Memento, Simulator, Originator
+
+Iterator(Checked)	
+--------
+Main Package-> IteratorSimulator, MenuItem, Waitress
+Menu-> Menu(interface) , DinerMenu, Pancakehousemenu
+iterators-> DinerMenuIter, PancakeHouseMenuIter
+
+
+
+adapter
+
+
+the  memento design pattern defines three distinc roles;
+Originator- 	the object knows how to save itself
+caretaker- the object knows why and when the originator needs to save and restore itself
+memento- the lock box that is written and read by orginator and sheperd by the caretaker
+

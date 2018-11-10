@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/observers/DisplayElement.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/com/du/observerpattern/ObserverSimulator.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/observers/CurrentConditionDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/observers/ForecastDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/observers/StatisticsDisplay.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/observers/Observer.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/subject/Subject.java</file>
+            <file>file:/home/musfiq/Desktop/SDP%20patterns/ObserverPattern/src/subject/WeatherData.java</file>
+        </group>
+    </open-files>
+</project-private>
